@@ -1,12 +1,11 @@
 # following-java
-*12부터 17까지 [JEP Index](https://openjdk.java.net/jeps/0)를 참고하여 구성*
 
-자바 너무 빨라요.<br>
-버전, 분야별로 중요한 점만 빨리 확인하고 필요하면 자세히 봅시다.
-
+이 문서는 자바가 벌써 LTS 버전인 JDK17이 릴리즈 되어서 자바 변경내용들을 공부 하기 위한 목적으로 만들었습니다.<br> 
+내용은 주관적으로 나눈 분류-와 버전별로 정렬을 하여 관심있는 내용부터 확인 할 수 있도록 했습니다.
 
 
 ## Index
+*OpenJDK [JEP Index](https://openjdk.java.net/jeps/0)를 참고하여 구성*
 
 ### Language Spec
 - JDK12
