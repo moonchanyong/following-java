@@ -127,19 +127,6 @@
 ---
 
 # Language Spec
-
-## JDK12
-
-### [325_Switch Expressions (Preview)](https://openjdk.java.net/jeps/325)
-
-Switch가 Expression이 됨
-```java
-return switch() {
-    ...
-}
-```
-
-# Language Spec
 ## JDK12
 ### [325_Switch Expressions (Preview)](https://openjdk.java.net/jeps/325)
 ## JDK13
@@ -209,7 +196,7 @@ return switch() {
 
 # JVM
 ## JDK12
-  - [334_JVM Constants API](https://openjdk.java.net/jeps/334)
+### [334_JVM Constants API](https://openjdk.java.net/jeps/334)
 ## JDK14
 ### [358_Helpful NullPointerExceptions](https://openjdk.java.net/jeps/358)
 ## JDK15
@@ -246,7 +233,6 @@ return switch() {
 ### [389_Foreign Linker API (Incubator)](https://openjdk.java.net/jeps/389)
 ### [390_Warnings for Value-Based Classes](https://openjdk.java.net/jeps/390)
 ### [396_Strongly Encapsulate JDK Internals by Default](https://openjdk.java.net/jeps/396)
-
 ## JDK17
 ### [356_Enhanced Pseudo-Random Number Generators](https://openjdk.java.net/jeps/356)
 ### [382_New macOS Rendering Pipeline](https://openjdk.java.net/jeps/382)
