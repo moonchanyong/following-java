@@ -16,7 +16,6 @@
     - [355_Text Blocks (Preview)](https://openjdk.java.net/jeps/355)
 - JDK14
     - [305_Pattern Matching for instanceof (Preview)](https://openjdk.java.net/jeps/305)
-    - [358_Helpful NullPointerExceptions](https://openjdk.java.net/jeps/358)
     - [359_Records (Preview)](https://openjdk.java.net/jeps/359)
     - [361_Switch Expressions](https://openjdk.java.net/jeps/361)
     - [368_Text Blocks (Second Preview)](https://openjdk.java.net/jeps/368)
@@ -27,7 +26,6 @@
     - [378_Text Blocks](https://openjdk.java.net/jeps/378)
     - [384_Records (Second Preview)](https://openjdk.java.net/jeps/384)
 - JDK16
-    - [338_Vector API (Incubator)](https://openjdk.java.net/jeps/338)
     - [394_Pattern Matching for instanceof](https://openjdk.java.net/jeps/394)
     - [395_Records](https://openjdk.java.net/jeps/395)
 - JDK16
@@ -55,7 +53,6 @@
     - [379_Shenandoah: A Low-Pause-Time Garbage Collector (Production)](https://openjdk.java.net/jeps/379)
 - JDK16
     - [376_ZGC: Concurrent Thread-Stack Processing](https://openjdk.java.net/jeps/376)
-    - [414_Vector API (Second Incubator)](https://openjdk.java.net/jeps/414)
 
 ### Tools
 - JDK12
@@ -64,12 +61,8 @@
     - [343_Packaging Tool (Incubator)](https://openjdk.java.net/jeps/343)
     - [349_JFR Event Streaming](https://openjdk.java.net/jeps/349)
     - [367_Remove the Pack200 Tools and API](https://openjdk.java.net/jeps/367)
-- JDK15
-    - [372_Remove the Nashorn JavaScript Engine](https://openjdk.java.net/jeps/372)
 - JDK16 
     - [392_Packaging Tool](https://openjdk.java.net/jeps/392)
-- JDK17
-    - [356_Enhanced Pseudo-Random Number Generators](https://openjdk.java.net/jeps/356)
   
 ### Memory
 - JDK14
@@ -78,6 +71,7 @@
 - JDK15
     - [383_Foreign-Memory Access API (Second Incubator)](https://openjdk.java.net/jeps/383)
 - JDK16
+    - [387_Elastic Metaspace](https://openjdk.java.net/jeps/387)
     - [393_Foreign-Memory Access API (Third Incubator)](https://openjdk.java.net/jeps/393)
 - JDK17
     - [412_Foreign Function & Memory API (Incubator)](https://openjdk.java.net/jeps/412)
@@ -85,16 +79,19 @@
 ### JVM
 - JDK12
     - [334_JVM Constants API](https://openjdk.java.net/jeps/334)
+- JDK14
+    - [358_Helpful NullPointerExceptions](https://openjdk.java.net/jeps/358) 
 - JDK15
     - [374_Deprecate and Disable Biased Locking](https://openjdk.java.net/jeps/374)
     - [381_Remove the Solaris and SPARC Ports](https://openjdk.java.net/jeps/381)
 - JDK16
+    - [338_Vector API (Incubator)](https://openjdk.java.net/jeps/338)
     - [386_Alpine Linux Port](https://openjdk.java.net/jeps/386)
-    - [387_Elastic Metaspace](https://openjdk.java.net/jeps/387)
     - [388_Windows/AArch64 Port](https://openjdk.java.net/jeps/388)
 - JDK17
     - [391_macOS/AArch64 Port](https://openjdk.java.net/jeps/391)
     - [410_Remove the Experimental AOT and JIT Compiler](https://openjdk.java.net/jeps/410)
+    - [414_Vector API (Second Incubator)](https://openjdk.java.net/jeps/414)
 
 ### ETC
 - JDK12
@@ -107,6 +104,7 @@
     - [362_Deprecate the Solaris and SPARC Ports](https://openjdk.java.net/jeps/362)
 - JDK15
     - [339_Edwards-Curve Digital Signature Algorithm (EdDSA)](https://openjdk.java.net/jeps/339)
+    - [372_Remove the Nashorn JavaScript Engine](https://openjdk.java.net/jeps/372)
     - [373_Reimplement the Legacy DatagramSocket API](https://openjdk.java.net/jeps/373)
     - [385_Deprecate RMI Activation for Removal](https://openjdk.java.net/jeps/385)
 - JDK16
@@ -119,6 +117,7 @@
     - [396_Strongly Encapsulate JDK Internals by Default](https://openjdk.java.net/jeps/396)
 
 - JDK17
+    - [356_Enhanced Pseudo-Random Number Generators](https://openjdk.java.net/jeps/356) 
     - [382_New macOS Rendering Pipeline](https://openjdk.java.net/jeps/382)
     - [398_Deprecate the Applet API for Removal](https://openjdk.java.net/jeps/398)
     - [403_Strongly Encapsulate JDK Internals](https://openjdk.java.net/jeps/403)
